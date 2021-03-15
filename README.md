@@ -1,7 +1,7 @@
 ### Hi 👋, this is Minghao Deng
 [![deng-ming-hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=deng-ming-hao&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deng-ming-hao&layout=compact&hide=VHDL,Coq)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deng-ming-hao)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **deng-ming-hao/deng-ming-hao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
